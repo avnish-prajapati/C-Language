@@ -9,7 +9,7 @@
 
 void main()	// its starting point of codes.
 {
-    int i, j, k;	// A datatype type <int> which contains two varibale i,j,k as need  to as required pattern,,
+    int i, j, k;	// A datatype type <int> which contains three varibale i,j,k as need  to as required pattern,,
 
     for(i=5; i>=1; i--)
     {
