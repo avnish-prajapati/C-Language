@@ -15,7 +15,16 @@ void main () // its starting line if code..
 	{
 		for(j=1; j<=5; j++)
 		{
-			printf("");
+			if(i==1 || i==3 || j==1)
+{
+printf("* ");
+}
+else if(i==2 && j==5)
+{
+printf("* ");
+}
+}
+printf(" ");
 		}
 	}
 	
