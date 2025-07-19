@@ -39,9 +39,6 @@ void main()
         }
     }
     
-    printf("\nOriginal Matrix:\n");
-    matrix(&a[0][0], r, c);
-
     cube(&a[0][0], r, c);
 
     printf("\nMatrix after cubing each element:\n");
