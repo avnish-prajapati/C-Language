@@ -52,7 +52,7 @@ b,a + b);
       printf("Invalid choice.. Try again.\n");
       break;
     }
-  } while (choice != 6);
+  } while (choose != 6);
 }
 
 int main()
