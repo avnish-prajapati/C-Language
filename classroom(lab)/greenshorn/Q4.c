@@ -4,7 +4,7 @@
 //Ex. Base Salary: 100 RS, HRA=10, DA=5, TA=8.
 void main()
 {
-	int gs,bs,hra,da,ta;
+	int gs,bs,hra,da,ta; 
 	
 	printf("Enter bs :");
 	scanf("%d",&bs);
