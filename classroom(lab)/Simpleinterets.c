@@ -3,6 +3,7 @@
 
 void main ()
 {
+
 //	WAP to Simple interest. 
 	int si,p,r,t;      
 //	p=principle , r=rate , t=time
