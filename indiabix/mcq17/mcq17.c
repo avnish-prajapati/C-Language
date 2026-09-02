@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
+
 //2, 6, 18, 54,   *3
 void main ()
 {
