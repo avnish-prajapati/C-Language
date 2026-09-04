@@ -3,6 +3,7 @@
 
 //  Write a C program to print all negative elements in an array.
 void main()
+
 {
     int n,i,count=0,j=0;
 
